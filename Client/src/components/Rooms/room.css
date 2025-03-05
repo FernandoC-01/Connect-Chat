@@ -1,0 +1,15 @@
+/* Room List */
+.room-list {
+    max-width: 300px;
+    text-align: center;
+}
+
+.room-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.room-buttons button {
+    width: 100%;
+}
